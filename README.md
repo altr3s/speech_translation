@@ -3,7 +3,7 @@
 ## Import libraries:
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
-===
+------
 ### KIVY
 #### Install:
 ```py
