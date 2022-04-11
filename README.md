@@ -1,5 +1,7 @@
 # Speech multilanguage Translator on `Python`. Product by altr3s.
 ---
+## Python version 3.9
+---
 ## Import libraries:
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
@@ -64,6 +66,6 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 https://people.csail.mit.edu/hubert/pyaudio/docs/
 ```
 ---
-# For questions and suggestions, comment on the project, write to the linked social networks. See you later!
+## For questions and suggestions, comment on the project, write to the linked social networks. See you later!
 ---
 [Go To TOP](#TOP)
