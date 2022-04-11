@@ -3,7 +3,9 @@
 ## Import libraries:
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
-------
+* [SpeechRecognition](#SpeechRecognition)
+* [googletrans](#GoogleTrans)
+---
 ### KIVY
 #### Install:
 ```py
@@ -23,3 +25,22 @@ pip install kivymd
 ```txt
 https://kivymd.readthedocs.io/en/latest/
 ```
+---
+### Speech_Recognition 
+#### Install:
+```py
+pip install speechrecognition
+```
+#### Documentation:
+```txt
+https://github.com/Uberi/speech_recognition
+```
+---
+### googletrans 
+#### Install:
+```py
+pip install googletrans==3.1.0a0
+```
+#### Documentation:
+```txt
+https://github.com/ssut/py-googletrans
