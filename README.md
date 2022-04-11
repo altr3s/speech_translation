@@ -1,3 +1,4 @@
 # Speech multilanguage Translator on `Python`. Product by altr3s.
 ---
-## Travel Guide:
+## Import libraries:
+* [KIVY](#KIVY)
