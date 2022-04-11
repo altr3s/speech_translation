@@ -7,7 +7,6 @@
 * [googletrans](#GoogleTrans)
 ---
 ## Libraries:
----
 ### KIVY
 #### Install:
 ```py
@@ -46,3 +45,20 @@ pip install googletrans==3.1.0a0
 #### Documentation:
 ```txt
 https://github.com/ssut/py-googletrans
+```
+---
+### PyAudio
+#### Install:
+```txt
+To install this library, you need to follow the link, download the file and save it to the project folder. 
+And later use "pip install [you file already in folder with project]".
+The repository has provided a file for the version 3.9
+```
+#### Url:
+```txt
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+```
+#### Documentation:
+```txt
+https://people.csail.mit.edu/hubert/pyaudio/docs/
+```
