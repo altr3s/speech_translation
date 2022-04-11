@@ -1,6 +1,5 @@
-# Speech multilanguage Translator on `Python`. Product by altr3s.
+# Speech multilanguage Translator on `Python`. Current version 3.9
 The product was created during the development of school projects.
-Python version 3.9.
 Full project in zip file. Download, testing, commenting.
 Also u can see demo-video in my repository.
 ---
@@ -69,6 +68,7 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 https://people.csail.mit.edu/hubert/pyaudio/docs/
 ```
 ---
-## For questions and suggestions, comment on the project, write to the linked social networks. See you later!
+## For questions and suggestions, comment on the project, write to the linked social networks.
+See you later!
 ---
 [Go To TOP](#TOP)
