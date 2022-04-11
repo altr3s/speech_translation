@@ -12,7 +12,13 @@ pip install kivy
 ```txt
 https://kivy.org/
 ```
+---
 ### KIVYMD
+#### Install:
 ```py
 pip install kivymd
+```
+#### Documentation:
+```txt
+https://kivymd.readthedocs.io/en/latest/
 ```
