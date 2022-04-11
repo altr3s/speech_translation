@@ -4,8 +4,13 @@
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
 ### KIVY
+#### Install:
 ```py
 pip install kivy
+```
+#### Documentation:
+```txt
+https://kivy.org/
 ```
 ### KIVYMD
 ```py
