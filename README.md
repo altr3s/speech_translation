@@ -2,3 +2,7 @@
 ---
 ## Import libraries:
 * [KIVY](#KIVY)
+### KIVY
+```py
+pip install kivy
+```
