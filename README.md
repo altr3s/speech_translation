@@ -4,7 +4,7 @@
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
 * [SpeechRecognition](#SpeechRecognition)
-* [GoogleTrans](#googletrans)
+* [googletrans](#googletrans)
 * [PyAudio](#PyAudio)
 ---
 ## Libraries:
@@ -63,3 +63,5 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 ```txt
 https://people.csail.mit.edu/hubert/pyaudio/docs/
 ```
+---
+[Go To TOP](#TOP)
