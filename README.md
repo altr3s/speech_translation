@@ -6,6 +6,8 @@
 * [SpeechRecognition](#SpeechRecognition)
 * [googletrans](#GoogleTrans)
 ---
+## Libraries:
+---
 ### KIVY
 #### Install:
 ```py
