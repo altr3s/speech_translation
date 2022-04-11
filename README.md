@@ -1,4 +1,9 @@
 # Speech multilanguage Translator on `Python`. Product by altr3s.
+```txt
+The product was created during the development of school projects.
+Python version 3.9.
+Full project in zip file. Download, testing, commenting.
+```
 ---
 ## Python version 3.9
 ## Import libraries:
@@ -7,9 +12,6 @@
 * [SpeechRecognition](#SpeechRecognition)
 * [googletrans](#googletrans)
 * [PyAudio](#PyAudio)
-```txt
-Full project in zip file. Download, testing, commenting.
-```
 ---
 ## Libraries:
 ### KIVY
