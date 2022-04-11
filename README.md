@@ -56,7 +56,7 @@ https://github.com/ssut/py-googletrans
 ```txt
 To install this library, you need to follow the link, download the file and save it to the project folder. 
 And later use "pip install [you file already in folder with project]".
-The repository has provided a file for the version 3.9
+The repository (folder "project") has provided a file for the version 3.9
 ```
 #### Url:
 ```txt
