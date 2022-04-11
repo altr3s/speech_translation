@@ -1,7 +1,6 @@
 # Speech multilanguage Translator on `Python`. Product by altr3s.
 ---
 ## Python version 3.9
----
 ## Import libraries:
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
