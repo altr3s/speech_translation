@@ -4,7 +4,8 @@
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
 * [SpeechRecognition](#SpeechRecognition)
-* [googletrans](#GoogleTrans)
+* [GoogleTrans](#googletrans)
+* [PyAudio](#PyAudio)
 ---
 ## Libraries:
 ### KIVY
