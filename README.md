@@ -3,7 +3,6 @@ The product was created during the development of school projects.
 Full project in zip file. Download, testing, commenting.
 Also u can see demo-video in my repository.
 ---
-## Python version 3.9
 ## Import libraries:
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
