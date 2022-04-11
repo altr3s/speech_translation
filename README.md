@@ -7,6 +7,9 @@
 * [SpeechRecognition](#SpeechRecognition)
 * [googletrans](#googletrans)
 * [PyAudio](#PyAudio)
+```txt
+Full project in zip file. Download, testing, commenting.
+```
 ---
 ## Libraries:
 ### KIVY
