@@ -2,7 +2,6 @@
 The product was created during the development of school projects.
 Full codes in "project" folder. Download, testing, commenting.
 Also you can see demo-video in my repository.
-
 ---
 ## Import libraries:
 * [KIVY](#KIVY)
