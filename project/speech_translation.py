@@ -32,8 +32,6 @@ class Container(BoxLayout):
         translator = Translator()
         translate_text = translator.translate(self.ids.input_text.text, dest=lng)
         result = translate_text.text
-
-        print(result)
         self.ids.output_text.text = result
         if lng in voice_lang_dict:
             engine.setProperty('voice', voice_lang_dict[lng])
