@@ -3,6 +3,7 @@ The product was created during the development of school projects.
 Full codes in "project" folder. Download, testing, commenting.
 Also you can see demo-video in my repository.
 ---
+# Download [video](https://drive.google.com/file/d/1fuML-0KdtUXTb8fl80Ukvni78RuB5Ooi/view?usp=sharing) to watch his working
 ## Import libraries:
 * [KIVY](#KIVY)
 * [KYVYMD](#KIVYMD)
